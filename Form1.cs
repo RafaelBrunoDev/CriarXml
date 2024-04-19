@@ -153,7 +153,7 @@ namespace CriarXml
             System.Data.OleDb.OleDbConnection();
             // TODO: Modify the connection string and include any
             // additional required properties for your database.
-            //db.ConnectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;" + @"Data Source= C:\Users\Rafab\Documents\TestXml\Database2.mdb";
+            //db.ConnectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;" + @"Data Source= C:\Users\TestXml\Database2.mdb";
             //Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:
 
             //try
